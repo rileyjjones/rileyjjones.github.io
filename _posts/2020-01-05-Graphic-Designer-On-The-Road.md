@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Graphic Designer On The Road"
-description: "A graphic designer is a professional within the graphic design and graphic arts industry."
+title: "Claire Saffitz's Whipped Cream Tres Leches Cake"
+description: "A twist on a delicious classic"
 date: 2022-01-05
 feature_image: images/road.jpg
 tags: [tips, work]
