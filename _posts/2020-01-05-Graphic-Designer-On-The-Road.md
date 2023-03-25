@@ -3,7 +3,7 @@ layout: post
 title: "Claire Saffitz's Whipped Cream Tres Leches Cake"
 description: "A twist on a delicious classic"
 date: 2022-01-05
-feature_image: images/road.jpg
+feature_image: images/IMG_8390.jpg
 tags: [tips, work]
 ---
 
