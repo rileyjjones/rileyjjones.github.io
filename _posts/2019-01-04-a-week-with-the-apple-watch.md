@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Review: A Week With the Apple Watch"
+title: "Simple, Delicious Carrot Cake"
 description: "The Apple Watch is a smartwatch developed by Apple Inc."
 date: 2019-01-04
 feature_image: images/apple-watch.jpg
